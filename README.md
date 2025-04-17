@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate on projects on signal processing, modelling and machine learning. 
 - 📫 You can contact me through sanugidwickramasinghe@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I love sleeping (specially in lectures) 
+- ⚡ Fun fact: I love sleeping (specially in lectures😉) 
 
 
 
