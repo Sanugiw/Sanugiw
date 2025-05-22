@@ -1,55 +1,60 @@
 # 👋 Hi, I'm Sanugi Wickramasinghe
 
-🎓 **2nd Year Undergraduate in Biomedical Engineering | University of Moratuwa**
+🎓 **2nd Year Undergraduate in Biomedical Engineering | University of Moratuwa**  
+📧 sanugidwickramasinghe@gmail.com 
 
 ---
 
 ## 🔬 About Me
 
-I am passionate about merging engineering and healthcare to tackle real-world medical challenges. My interests include **Physiological Modeling**, **Biomedical Signal Processing**, **Mathematics**, and **Machine Learning**. I aspire to design and develop innovative medical technologies that meaningfully improve patient outcomes and quality of life.
-
-### 💡 Current Focus Areas
-
-- Physiological Modeling  
-- Medical Instrumentation & Devices  
-- Product Design & Development  
-- Biomedical Signal Processing  
-- Healthcare Application Development
+I am a highly motivated Biomedical Engineering undergraduate with a strong academic record (CGPA 3.9/4.0) and a deep passion for applying engineering principles to healthcare challenges. My research interests span signal processing, physiological modeling, machine learning, and human-computer interaction. I actively engage in multiple technical and professional societies such as IEEE EMBS and AIESEC, where I develop leadership and project management skills. I aim to leverage my skills in designing impactful medical devices and software solutions that enhance patient care and medical diagnostics.
 
 ---
 
 ## 🛠️ Tech Stack & Tools
 
-<p align="center">
-  <img alt="Python" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/python.svg" height="30" style="margin-right: 8px;"/>
-  <img alt="C++" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/cplusplus.svg" height="30" style="margin-right: 8px;"/>
-  <img alt="MATLAB" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/matlab.svg" height="30" style="margin-right: 8px;"/>
-  <img alt="Arduino" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/arduino.svg" height="30" style="margin-right: 8px;"/>
-  <img alt="Node.js" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/node-dot-js.svg" height="30" style="margin-right: 8px;"/>
-  <img alt="Raspberry Pi" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/raspberrypi.svg" height="30" style="margin-right: 8px;"/>
-  <img alt="SolidWorks" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/solidworks.svg" height="30" style="margin-right: 8px;"/>
-  <img alt="Altium" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/altiumdesigner.svg" height="30" style="margin-right: 8px;"/>
-  <img alt="OpenCV" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/opencv.svg" height="30" style="margin-right: 8px;"/>
-  <img alt="VS Code" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/visualstudiocode.svg" height="30" style="margin-right: 8px;"/>
-  <img alt="Dart" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/dart.svg" height="30" style="margin-right: 8px;"/>
-  <img alt="Flutter" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/flutter.svg" height="30" style="margin-right: 8px;"/>
-  <img alt="Proteus" src="https://upload.wikimedia.org/wikipedia/commons/5/55/Proteus_logo.png" height="30" style="margin-right: 8px;"/>
-  <img alt="LaTeX" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/latex.svg" height="30" style="margin-right: 8px;"/>
-  <img alt="Canva" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/canva.svg" height="30" style="margin-right: 8px;"/>
-  <img alt="Microsoft Office" src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/microsoftoffice.svg" height="30" style="margin-right: 8px;"/>
-  <img alt="Atmel Studio" src="https://upload.wikimedia.org/wikipedia/commons/e/e1/Atmel_Logo.svg" height="30" style="margin-right: 8px;"/>
+<p align="center" style="line-height: 2.5;">
+
+<span title="Python" style="margin-right:15px;"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/python.svg" alt="Python" height="30" style="vertical-align: middle; fill:#3776AB;" /></span>
+<span title="C++" style="margin-right:15px;"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/cplusplus.svg" alt="C++" height="30" style="vertical-align: middle; fill:#00599C;" /></span>
+<span title="MATLAB" style="margin-right:15px;"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/matlab.svg" alt="MATLAB" height="30" style="vertical-align: middle; fill:#0076A8;" /></span>
+<span title="Dart" style="margin-right:15px;"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/dart.svg" alt="Dart" height="30" style="vertical-align: middle; fill:#0175C2;" /></span>
+
+<span title="TensorFlow" style="margin-right:15px;"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/tensorflow.svg" alt="TensorFlow" height="30" style="vertical-align: middle; fill:#FF6F00;" /></span>
+<span title="NumPy" style="margin-right:15px;"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/numpy.svg" alt="NumPy" height="30" style="vertical-align: middle; fill:#013243;" /></span>
+<span title="Flutter" style="margin-right:15px;"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/flutter.svg" alt="Flutter" height="30" style="vertical-align: middle; fill:#02569B;" /></span>
+
+<span title="Arduino" style="margin-right:15px;"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/arduino.svg" alt="Arduino" height="30" style="vertical-align: middle; fill:#00979D;" /></span>
+<span title="Raspberry Pi" style="margin-right:15px;"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/raspberrypi.svg" alt="Raspberry Pi" height="30" style="vertical-align: middle; fill:#C51A4A;" /></span>
+<span title="Proteus" style="margin-right:15px;"><img src="https://upload.wikimedia.org/wikipedia/commons/5/55/Proteus_logo.png" alt="Proteus" height="30" style="vertical-align: middle;" /></span>
+<span title="LTspice" style="margin-right:15px;"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f7/LTspice_Logo.svg" alt="LTspice" height="30" style="vertical-align: middle;" /></span>
+
+<span title="SolidWorks" style="margin-right:15px;"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/solidworks.svg" alt="SolidWorks" height="30" style="vertical-align: middle; fill:#1B365D;" /></span>
+<span title="Altium Designer" style="margin-right:15px;"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/altiumdesigner.svg" alt="Altium Designer" height="30" style="vertical-align: middle; fill:#FF3600;" /></span>
+<span title="Canva" style="margin-right:15px;"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/canva.svg" alt="Canva" height="30" style="vertical-align: middle; fill:#00C4CC;" /></span>
+
+<span title="Visual Studio Code" style="margin-right:15px;"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/visualstudiocode.svg" alt="VS Code" height="30" style="vertical-align: middle; fill:#007ACC;" /></span>
+<span title="Arduino IDE" style="margin-right:15px;"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/arduino.svg" alt="Arduino IDE" height="30" style="vertical-align: middle; fill:#00979D;" /></span>
+<span title="LaTeX" style="margin-right:15px;"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/latex.svg" alt="LaTeX" height="30" style="vertical-align: middle; fill:#008080;" /></span>
+<span title="Microsoft Office" style="margin-right:15px;"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/microsoftoffice.svg" alt="Microsoft Office" height="30" style="vertical-align: middle; fill:#D83B01;" /></span>
+
+<span title="OpenCV" style="margin-right:15px;"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/opencv.svg" alt="OpenCV" height="30" style="vertical-align: middle; fill:#5C3EE8;" /></span>
+  
 </p>
 
 ---
 
 ## 📌 Notable Projects
 
-- **X-Hale** – Smart, portable spirometer integrated with a mobile app for real-time lung function monitoring.  
-- **FPGA UART Interface** – Reliable UART communication system built with SystemVerilog.  
-- **Smart Medibox** – Automated medication reminder and tracking system enhancing patient adherence.  
-- **ML-Integrated Table-Mounted Fundoscope** – AI-powered device for diabetic retinopathy detection through retinal imaging.  
-- **Dual Mode Analog Thermometer** – Versatile device measuring both body and liquid temperatures with accuracy.  
-- **Smart Trash Classifier** – Intelligent waste sorting system that categorizes recyclables automatically.
+- **X-Hale** – Developed a smart, portable spirometer measuring exhaled air velocity, displaying FVC and FEV1 with lung function analysis on screen.    
+
+- **ML-Integrated Table-Mounted Fundoscope** – Designed a table-mounted device capturing retinal videos, analyzed via machine learning models integrated with a web app.   
+
+- **Dual Mode Analog Thermometer** – Created a dual thermometer measuring body and liquid temperatures, with digital display.   
+
+- **Smart Medibox** – Built an Arduino-based medicine reminder system with environmental monitoring for timely, safe medication.  
+
+- **Smart Trash Classifier** – Developed an edge AI system on Raspberry Pi using TensorFlow Lite and OpenCV to classify waste categories via a real-time Flask web interface.  
 
 ---
 
@@ -65,11 +70,10 @@ I am passionate about merging engineering and healthcare to tackle real-world me
 ## 📬 Let's Connect
 
 - 📧 Email: [sanugidwickramasinghe@gmail.com](mailto:sanugidwickramasinghe@gmail.com)  
-- 🔗 LinkedIn: [linkedin.com/in/sanugiwickramasinghe](https://linkedin.com/in/sanugiwickramasinghe)
+- 🔗 LinkedIn: [linkedin.com/in/sanugiwickramasinghe](https://linkedin.com/in/sanugiwickramasinghe)  
+- 💻 GitHub: [github.com/Sanugiw](https://github.com/Sanugiw)  
 
 ---
 
 > 💬 "The benefits of biomedical progress are obvious, clear, and powerful. The hazards are much less well appreciated."  
 > — *Leon Kass*
-
-
