@@ -6,7 +6,7 @@
 
 ## 🔬 About Me
 
-I am a highly motivated Biomedical Engineering undergraduate with a strong academic record (CGPA 3.9/4.0) and a deep passion for applying engineering principles to healthcare challenges. My research interests span signal processing, physiological modeling, machine learning, and human-computer interaction. I actively engage in multiple technical and professional societies such as IEEE EMBS and AIESEC, where I develop leadership and project management skills. I aim to leverage my skills in designing impactful medical devices and software solutions that enhance patient care and medical diagnostics.
+I am a highly motivated Biomedical Engineering undergraduate with a strong academic record (CGPA 3.9/4.0) and a deep passion for applying engineering principles to healthcare challenges. My research interests span signal processing, physiological modeling, machine learning, and human-computer interaction. I actively engage in multiple technical and professional societies such as IEEE EMBS Student Branch Chapter, IEEE Student Branch, and AIESEC in the University of Moratuwa, where I develop leadership and project management skills. I aim to leverage my skills in designing impactful medical devices and software solutions that enhance patient care and medical diagnostics.
 
 ---
 
