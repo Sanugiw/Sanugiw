@@ -6,7 +6,13 @@
 
 ## 🔬 About Me
 
-I am a highly motivated Biomedical Engineering undergraduate with a strong academic record (CGPA 3.9/4.0) and a deep passion for applying engineering principles to healthcare challenges. My research interests span signal processing, physiological modeling, machine learning, and human-computer interaction. I actively engage in multiple technical and professional societies such as IEEE EMBS Student Branch Chapter, IEEE Student Branch, and AIESEC in the University of Moratuwa, where I develop leadership and project management skills. I aim to leverage my skills in designing impactful medical devices and software solutions that enhance patient care and medical diagnostics.
+---
+
+I am a highly motivated and disciplined Biomedical Engineering undergraduate at the University of Moratuwa, maintaining a strong academic record with a CGPA of 3.9/4.0. I have a profound passion for applying engineering principles to solve complex healthcare challenges, with a particular focus on interdisciplinary fields such as signal processing, physiological modeling, machine learning, and human-computer interaction. My academic journey is complemented by hands-on experience in designing and developing innovative medical devices and software systems that aim to improve patient outcomes and diagnostic accuracy.
+
+Beyond academics, I actively contribute to and lead within several technical and professional organizations, including the IEEE Engineering in Medicine and Biology Society (EMBS) Student Branch Chapter, IEEE Student Branch, and AIESEC at the University of Moratuwa. These roles have honed my leadership, communication, and project management skills, enabling me to coordinate diverse teams, organize impactful events, and foster professional networks. I am also skilled in a variety of programming languages and software tools, allowing me to integrate hardware and software solutions seamlessly in biomedical applications.
+
+Driven by a commitment to advancing healthcare technology, I continuously seek opportunities to engage in research, collaborate on multidisciplinary projects, and apply emerging technologies such as AI and IoT to create accessible, user-friendly medical solutions. My goal is to leverage my technical expertise and leadership experience to contribute meaningfully to the development of innovative biomedical engineering solutions that enhance patient care and promote healthier communities globally.
 
 ---
 
