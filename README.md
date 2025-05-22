@@ -18,7 +18,7 @@ Driven by a commitment to advancing healthcare technology, I continuously seek o
 
 ## 🛠️ Tech Stack & Tools
 
-Python | C++ | MATLAB | Arduino | Node.js |Raspberry Pi | SolidWorks | Altium | OpenCV | Visual Studio Code| Dart | Flutter | Proteus | Latex | Canva | Microsoft Office Suite | Atmel Studio
+`Python` | `C++` | `Dart` | `MATLAB` | `Arduino` | `Microcip Studion`| `Node.js` | `Raspberry Pi` | `SolidWorks` | `Altium` | `Proteus` | `OpenCV` | `Visual Studio Code`| `Flutter` | `Latex` | `Canva` | `Microsoft Office Suite` 
 
 ---
 
