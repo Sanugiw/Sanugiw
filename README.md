@@ -6,7 +6,7 @@
 
 ## 🔬 About Me
 
-I'm passionate about blending engineering and healthcare to address real-world medical challenges. My interests lie in **Physiological Modeling**, **Bio Signal Processing**, **Mathematics**, and **Machine Learning**. I aspire to design and build assistive technologies that meaningfully improve lives.
+I'm passionate about blending engineering and healthcare to address real-world medical challenges. My interests lie in **Physiological Modeling**, **Bio Signal Processing**, **Mathematics**, and **Machine Learning**. I aspire to design and build medical technologies that meaningfully improve lives.
 
 ### 💡 Current Focus Areas:
 
