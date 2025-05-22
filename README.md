@@ -45,19 +45,10 @@ I'm passionate about blending engineering and healthcare to address real-world m
 
 ---
 
-## 🔄 Contribution Graph
-
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Sanugiw&theme=dracula" alt="GitHub Contribution Graph" />
-</p>
-
----
-
 ## 📬 Let's Connect
 
 * ✉️ Email: [sanugidwickramasinghe@gmail.com](mailto:sanugidwickramasinghe@gmail.com)
-* 🔗 [LinkedIn](https://linkedin.com/in/your-profile)
-* 💻 [GitHub](https://github.com/JayxTG)
+* 🔗 [LinkedIn](https://linkedin.com/in/sanugiwickramasinghe)
 
 ---
 
