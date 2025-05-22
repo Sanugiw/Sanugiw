@@ -6,33 +6,32 @@
 
 ## 🔬 About Me
 
-I'm passionate about blending engineering and healthcare to address real-world medical challenges. My interests lie in **Physiological Modeling**, **Bio Signal Processing**, **Mathematics**, and **Machine Learning**. I aspire to design and build medical technologies that meaningfully improve lives.
+I am passionate about merging engineering and healthcare to tackle real-world medical challenges. My interests include **Physiological Modeling**, **Biomedical Signal Processing**, **Mathematics**, and **Machine Learning**. I aspire to design and develop innovative medical technologies that meaningfully improve patient outcomes and quality of life.
 
-### 💡 Current Focus Areas:
+### 💡 Current Focus Areas
 
 * ⚙️ Physiological Modeling
 * 🧪 Medical Instrumentation & Devices
 * 💡 Product Design & Development
-* 🧠 Bio Signal Processing
-* 📱 Healthcare App Development
+* 🧠 Biomedical Signal Processing
+* 📱 Healthcare Application Development
 
 ---
 
 ## 🛠️ Tech Stack & Tools
 
-`Python` | `C++` | `MATLAB` | `Arduino` | `Node.js` | `HTML/CSS/JS`
-`Raspberry Pi` | `SolidWorks` | `Altium` | `OpenCV` | `Visual Studio Code`
+`Python` | `C++` | `MATLAB` | `Arduino` | `Node.js` | `Raspberry Pi` | `SolidWorks` | `Altium` | `OpenCV` | `Visual Studio Code` | `Dart` | `Flutter` | `Proteus` | `LaTeX` | `Canva` | `Microsoft Office Suite` | `Atmel Studio`
 
 ---
 
 ## 📌 Notable Projects
 
-* 🫁 **X-Hale** – A smart, portable spirometer with an integrated mobile app
-* 💻 **FPGA UART Interface** – SystemVerilog-based data communication tool
-* 💊 **Smart Medibox** – An automated medicine reminder and tracking system
-* 👁️ **ML-Integrated Table-Mounted Fundoscope** – Diabetic retinopathy classification device
-* 🌡️ **Dual Mode Analog Thermometer** – Measures both body and liquid temperatures
-* 🗑️ **Smart Trash Classifier** – Automatically sorts waste into categories like plastic, paper, metal, and glass
+* 🫁 **X-Hale** – Smart, portable spirometer integrated with a mobile app for real-time lung function monitoring.
+* 💻 **FPGA UART Interface** – Reliable UART communication system built with SystemVerilog.
+* 💊 **Smart Medibox** – Automated medication reminder and tracking system enhancing patient adherence.
+* 👁️ **ML-Integrated Table-Mounted Fundoscope** – AI-powered device for diabetic retinopathy detection through retinal imaging.
+* 🌡️ **Dual Mode Analog Thermometer** – Versatile device measuring both body and liquid temperatures with accuracy.
+* 🗑️ **Smart Trash Classifier** – Intelligent waste sorting system that categorizes recyclables automatically.
 
 ---
 
@@ -45,13 +44,15 @@ I'm passionate about blending engineering and healthcare to address real-world m
 
 ---
 
-## 📬 Let's Connect
+## 📬 Let’s Connect
 
 * ✉️ Email: [sanugidwickramasinghe@gmail.com](mailto:sanugidwickramasinghe@gmail.com)
-* 🔗 [LinkedIn](https://linkedin.com/in/sanugiwickramasinghe)
+* 🔗 LinkedIn: [linkedin.com/in/sanugiwickramasinghe](https://linkedin.com/in/sanugiwickramasinghe)
 
 ---
 
 > "The benefits of biomedical progress are obvious, clear, and powerful. The hazards are much less well appreciated."
 > — *Leon Kass*
+
+---
 
