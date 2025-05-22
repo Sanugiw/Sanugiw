@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Sanugi Wickramasinghe
 
 🎓 **2nd Year Undergraduate in Biomedical Engineering | University of Moratuwa**  
-📧 sanugidwickramasinghe@gmail.com 
 
 ---
 
