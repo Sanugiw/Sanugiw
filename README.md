@@ -6,8 +6,6 @@
 
 ## About Me
 
----
-
 I am a highly motivated and disciplined Biomedical Engineering undergraduate at the University of Moratuwa, maintaining a strong academic record with a CGPA of 3.9/4.0. I have a profound passion for applying engineering principles to solve complex healthcare challenges, with a particular focus on interdisciplinary fields such as signal processing, physiological modeling, machine learning, and human-computer interaction. My academic journey is complemented by hands-on experience in designing and developing innovative medical devices and software systems that aim to improve patient outcomes and diagnostic accuracy.
 
 Beyond academics, I actively contribute to and lead within several technical and professional organizations, including the IEEE Engineering in Medicine and Biology Society (EMBS) Student Branch Chapter, IEEE Student Branch, and AIESEC at the University of Moratuwa. These roles have honed my leadership, communication, and project management skills, enabling me to coordinate diverse teams, organize impactful events, and foster professional networks. I am also skilled in a variety of programming languages and software tools, allowing me to integrate hardware and software solutions seamlessly in biomedical applications.
