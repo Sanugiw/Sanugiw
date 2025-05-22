@@ -39,8 +39,8 @@ I'm passionate about blending engineering and healthcare to address real-world m
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JayxTG&show_icons=true&theme=radical" alt="GitHub Stats" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayxTG&layout=compact&theme=radical" alt="Top Languages" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sanugiw&show_icons=true&theme=radical" alt="GitHub Stats" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanugiw&layout=compact&theme=radical" alt="Top Languages" height="160" />
 </p>
 
 ---
@@ -48,7 +48,7 @@ I'm passionate about blending engineering and healthcare to address real-world m
 ## 🔄 Contribution Graph
 
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=JayxTG&theme=dracula" alt="GitHub Contribution Graph" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=Sanugiw&theme=dracula" alt="GitHub Contribution Graph" />
 </p>
 
 ---
