@@ -16,7 +16,7 @@ Driven by a commitment to advancing healthcare technology, I continuously seek o
 
 ## Tech Stack & Tools
 
-`Python` | `C++` | `Dart` | `MATLAB` | `Jupyter Notebook` | `Arduino` | `Microchip Studio`| `Node.js` | `Raspberry Pi` | `SolidWorks` | `Altium` | `Proteus` | `LTSpice` | `OpenCV` | `Visual Studio Code`| `Flutter` } `TensorFlow` | `NumPy` | `LaTeX` | `Canva` | `Microsoft Office Suite` 
+`Python` | `C++` | `Dart` | `MATLAB` | `Jupyter Notebook` | `Arduino` | `Microchip Studio`| `Node.js` | `Raspberry Pi` | `SolidWorks` | `Altium` | `Proteus` | `LT Spice` | `OpenCV` | `Visual Studio Code`| `Flutter` } `TensorFlow` | `NumPy` | `LaTeX` | `Canva` | `Microsoft Office Suite` 
 
 ---
 
