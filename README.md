@@ -1,10 +1,10 @@
 # 👋 Hi, I'm Sanugi Wickramasinghe
 
-🎓 **2nd Year Undergraduate in Biomedical Engineering | University of Moratuwa**  
+**2nd Year Undergraduate in Biomedical Engineering | University of Moratuwa**  
 
 ---
 
-## 🔬 About Me
+## About Me
 
 ---
 
@@ -16,13 +16,13 @@ Driven by a commitment to advancing healthcare technology, I continuously seek o
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## Tech Stack & Tools
 
 `Python` | `C++` | `Dart` | `MATLAB` | `Arduino` | `Microcip Studio`| `Node.js` | `Raspberry Pi` | `SolidWorks` | `Altium` | `Proteus` | `OpenCV` | `Visual Studio Code`| `Flutter` | `Latex` | `Canva` | `Microsoft Office Suite` 
 
 ---
 
-## 📌 Notable Projects
+## Notable Projects
 
 - **X-Hale** – Developed a smart, portable spirometer measuring exhaled air velocity, displaying FVC and FEV1 with lung function analysis on screen.    
 
@@ -36,7 +36,7 @@ Driven by a commitment to advancing healthcare technology, I continuously seek o
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sanugiw&show_icons=true&theme=radical" alt="GitHub Stats" height="160" />
@@ -45,12 +45,12 @@ Driven by a commitment to advancing healthcare technology, I continuously seek o
 
 ---
 
-## 📬 Let's Connect
+## Let's Connect
 
 - 📧 Email: [sanugidwickramasinghe@gmail.com](mailto:sanugidwickramasinghe@gmail.com)  
 - 🔗 LinkedIn: [linkedin.com/in/sanugiwickramasinghe](https://linkedin.com/in/sanugiwickramasinghe)  
 
 ---
 
-> 💬 "The benefits of biomedical progress are obvious, clear, and powerful. The hazards are much less well appreciated."  
+> "The benefits of biomedical progress are obvious, clear, and powerful. The hazards are much less well appreciated."  
 > — *Leon Kass*
