@@ -49,7 +49,6 @@ Driven by a commitment to advancing healthcare technology, I continuously seek o
 
 - 📧 Email: [sanugidwickramasinghe@gmail.com](mailto:sanugidwickramasinghe@gmail.com)  
 - 🔗 LinkedIn: [linkedin.com/in/sanugiwickramasinghe](https://linkedin.com/in/sanugiwickramasinghe)  
-- 💻 GitHub: [github.com/Sanugiw](https://github.com/Sanugiw)  
 
 ---
 
