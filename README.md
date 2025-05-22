@@ -12,33 +12,28 @@ I am a highly motivated Biomedical Engineering undergraduate with a strong acade
 
 ## 🛠️ Tech Stack & Tools
 
-<p align="center" style="line-height: 2.5;">
+<p align="center" style="line-height: 1.5; margin: 10px 0;">
 
-<span title="Python" style="margin-right:15px;"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/python.svg" alt="Python" height="30" style="vertical-align: middle; fill:#3776AB;" /></span>
-<span title="C++" style="margin-right:15px;"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/cplusplus.svg" alt="C++" height="30" style="vertical-align: middle; fill:#00599C;" /></span>
-<span title="MATLAB" style="margin-right:15px;"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/matlab.svg" alt="MATLAB" height="30" style="vertical-align: middle; fill:#0076A8;" /></span>
-<span title="Dart" style="margin-right:15px;"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/dart.svg" alt="Dart" height="30" style="vertical-align: middle; fill:#0175C2;" /></span>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/python.svg" alt="Python" height="30" style="vertical-align: middle; fill:#3776AB; filter:none; margin-right:15px;" title="Python" />
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/cplusplus.svg" alt="C++" height="30" style="vertical-align: middle; fill:#00599C; filter:none; margin-right:15px;" title="C++" />
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/matlab.svg" alt="MATLAB" height="30" style="vertical-align: middle; fill:#0076A8; filter:none; margin-right:15px;" title="MATLAB" />
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/dart.svg" alt="Dart" height="30" style="vertical-align: middle; fill:#0175C2; filter:none; margin-right:15px;" title="Dart" />
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/tensorflow.svg" alt="TensorFlow" height="30" style="vertical-align: middle; fill:#FF6F00; filter:none; margin-right:15px;" title="TensorFlow" />
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/numpy.svg" alt="NumPy" height="30" style="vertical-align: middle; fill:#013243; filter:none; margin-right:15px;" title="NumPy" />
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/flutter.svg" alt="Flutter" height="30" style="vertical-align: middle; fill:#02569B; filter:none; margin-right:15px;" title="Flutter" />
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/arduino.svg" alt="Arduino" height="30" style="vertical-align: middle; fill:#00979D; filter:none; margin-right:15px;" title="Arduino" />
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/raspberrypi.svg" alt="Raspberry Pi" height="30" style="vertical-align: middle; fill:#C51A4A; filter:none; margin-right:15px;" title="Raspberry Pi" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/55/Proteus_logo.png" alt="Proteus" height="30" style="vertical-align: middle; margin-right:15px;" title="Proteus" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/f7/LTspice_Logo.svg" alt="LTspice" height="30" style="vertical-align: middle; margin-right:15px;" title="LTspice" />
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/solidworks.svg" alt="SolidWorks" height="30" style="vertical-align: middle; fill:#1B365D; filter:none; margin-right:15px;" title="SolidWorks" />
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/altiumdesigner.svg" alt="Altium Designer" height="30" style="vertical-align: middle; fill:#FF3600; filter:none; margin-right:15px;" title="Altium Designer" />
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/canva.svg" alt="Canva" height="30" style="vertical-align: middle; fill:#00C4CC; filter:none; margin-right:15px;" title="Canva" />
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/visualstudiocode.svg" alt="VS Code" height="30" style="vertical-align: middle; fill:#007ACC; filter:none; margin-right:15px;" title="Visual Studio Code" />
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/arduino.svg" alt="Arduino IDE" height="30" style="vertical-align: middle; fill:#00979D; filter:none; margin-right:15px;" title="Arduino IDE" />
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/latex.svg" alt="LaTeX" height="30" style="vertical-align: middle; fill:#008080; filter:none; margin-right:15px;" title="LaTeX" />
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/microsoftoffice.svg" alt="Microsoft Office" height="30" style="vertical-align: middle; fill:#D83B01; filter:none; margin-right:15px;" title="Microsoft Office" />
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/opencv.svg" alt="OpenCV" height="30" style="vertical-align: middle; fill:#5C3EE8; filter:none;" title="OpenCV" />
 
-<span title="TensorFlow" style="margin-right:15px;"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/tensorflow.svg" alt="TensorFlow" height="30" style="vertical-align: middle; fill:#FF6F00;" /></span>
-<span title="NumPy" style="margin-right:15px;"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/numpy.svg" alt="NumPy" height="30" style="vertical-align: middle; fill:#013243;" /></span>
-<span title="Flutter" style="margin-right:15px;"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/flutter.svg" alt="Flutter" height="30" style="vertical-align: middle; fill:#02569B;" /></span>
-
-<span title="Arduino" style="margin-right:15px;"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/arduino.svg" alt="Arduino" height="30" style="vertical-align: middle; fill:#00979D;" /></span>
-<span title="Raspberry Pi" style="margin-right:15px;"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/raspberrypi.svg" alt="Raspberry Pi" height="30" style="vertical-align: middle; fill:#C51A4A;" /></span>
-<span title="Proteus" style="margin-right:15px;"><img src="https://upload.wikimedia.org/wikipedia/commons/5/55/Proteus_logo.png" alt="Proteus" height="30" style="vertical-align: middle;" /></span>
-<span title="LTspice" style="margin-right:15px;"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f7/LTspice_Logo.svg" alt="LTspice" height="30" style="vertical-align: middle;" /></span>
-
-<span title="SolidWorks" style="margin-right:15px;"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/solidworks.svg" alt="SolidWorks" height="30" style="vertical-align: middle; fill:#1B365D;" /></span>
-<span title="Altium Designer" style="margin-right:15px;"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/altiumdesigner.svg" alt="Altium Designer" height="30" style="vertical-align: middle; fill:#FF3600;" /></span>
-<span title="Canva" style="margin-right:15px;"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/canva.svg" alt="Canva" height="30" style="vertical-align: middle; fill:#00C4CC;" /></span>
-
-<span title="Visual Studio Code" style="margin-right:15px;"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/visualstudiocode.svg" alt="VS Code" height="30" style="vertical-align: middle; fill:#007ACC;" /></span>
-<span title="Arduino IDE" style="margin-right:15px;"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/arduino.svg" alt="Arduino IDE" height="30" style="vertical-align: middle; fill:#00979D;" /></span>
-<span title="LaTeX" style="margin-right:15px;"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/latex.svg" alt="LaTeX" height="30" style="vertical-align: middle; fill:#008080;" /></span>
-<span title="Microsoft Office" style="margin-right:15px;"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/microsoftoffice.svg" alt="Microsoft Office" height="30" style="vertical-align: middle; fill:#D83B01;" /></span>
-
-<span title="OpenCV" style="margin-right:15px;"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/opencv.svg" alt="OpenCV" height="30" style="vertical-align: middle; fill:#5C3EE8;" /></span>
-  
 </p>
 
 ---
