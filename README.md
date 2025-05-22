@@ -6,7 +6,7 @@
 
 ## About Me
 
-I am a highly motivated and disciplined Biomedical Engineering undergraduate at the University of Moratuwa, maintaining a strong academic record with a CGPA of 3.9/4.0. I have a profound passion for applying engineering principles to solve complex healthcare challenges, with a particular focus on interdisciplinary fields such as signal processing, physiological modeling, machine learning, and human-computer interaction. My academic journey is complemented by hands-on experience in designing and developing innovative medical devices and software systems that aim to improve patient outcomes and diagnostic accuracy.
+I am a highly motivated and disciplined Biomedical Engineering undergraduate at the University of Moratuwa, maintaining a strong academic record with a CGPA of 3.9/4.0 and consistent placement on the Dean’s List for academic excellence. I am deeply passionate about leveraging engineering principles to address complex healthcare challenges, particularly in the interdisciplinary domains of signal processing, physiological modeling, machine learning, and human-computer interaction. My academic journey is enriched by practical, project-based experience where I have designed and developed innovative medical devices and intelligent healthcare systems that aim to enhance diagnostic accuracy, clinical efficiency, and patient outcomes.
 
 Beyond academics, I actively contribute to and lead within several technical and professional organizations, including the IEEE Engineering in Medicine and Biology Society (EMBS) Student Branch Chapter, IEEE Student Branch, and AIESEC at the University of Moratuwa. These roles have honed my leadership, communication, and project management skills, enabling me to coordinate diverse teams, organize impactful events, and foster professional networks. I am also skilled in a variety of programming languages and software tools, allowing me to integrate hardware and software solutions seamlessly in biomedical applications.
 
@@ -16,7 +16,7 @@ Driven by a commitment to advancing healthcare technology, I continuously seek o
 
 ## Tech Stack & Tools
 
-`Python` | `C++` | `Dart` | `MATLAB` | `Jupyter Notebook` | `Arduino` | `Microcip Studio`| `Node.js` | `Raspberry Pi` | `SolidWorks` | `Altium` | `Proteus` | `LTSpice` | `OpenCV` | `Visual Studio Code`| `Flutter` } `TensorFlow` | `NumPy` | `LaTeX` | `Canva` | `Microsoft Office Suite` 
+`Python` | `C++` | `Dart` | `MATLAB` | `Jupyter Notebook` | `Arduino` | `Microchip Studio`| `Node.js` | `Raspberry Pi` | `SolidWorks` | `Altium` | `Proteus` | `LTSpice` | `OpenCV` | `Visual Studio Code`| `Flutter` } `TensorFlow` | `NumPy` | `LaTeX` | `Canva` | `Microsoft Office Suite` 
 
 ---
 
