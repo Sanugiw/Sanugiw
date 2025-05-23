@@ -22,16 +22,6 @@ I am continuously seeking opportunities to engage in **research**, collaborate o
 
 ---
 
-## Notable Projects
-
-- **X-Hale** – A portable, smart spirometer capable of measuring exhaled air velocity with on-device FVC/FEV1 analysis and interpretation.
-- **ML-Integrated Fundoscope** – A table-mounted retinal video capture system, integrated with ML models and a web interface for analysis and visualization.
-- **Dual Mode Analog Thermometer** – Designed to measure both body and liquid temperatures with analog sensors and digital readout.
-- **Smart Medibox** – An Arduino-based medicine reminder with environmental sensing and alert system for medication safety.
-- **Smart Trash Classifier** – An edge-AI waste sorting system using Raspberry Pi, TensorFlow Lite, and OpenCV with real-time Flask web display.
-
----
-
 ## GitHub Analytics
 
 <p align="center">
