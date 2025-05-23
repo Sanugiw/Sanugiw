@@ -18,7 +18,7 @@ I am continuously seeking opportunities to engage in **research**, collaborate o
   <img src="https://skillicons.dev/icons?i=python,cpp,dart,matlab,flutter,tensorflow,opencv,arduino,raspberrypi,nodejs,latex,vscode,solidworks" alt="Tech Stack" />
 </p>
 
-**Other Tools**: Altium Designer | Proteus | Quartus | Microsoft Office Suite | Canva | Git | GitHub
+**Other Tools**: `Altium Designer` | `Proteus` | `Quartus` | `  Jupyter Notebook` | `Microsoft Office Suite` | `Canva` | `Git` | `GitHub`
 
 ---
 
