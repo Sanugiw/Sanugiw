@@ -15,7 +15,7 @@ I am continuously seeking opportunities to engage in **research**, collaborate o
 ## 🛠 Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,dart,matlab,flutter,tensorflow,numpy,jupyter,opencv,arduino,raspberrypi,nodejs,latex,vscode,solidworks" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,dart,matlab,flutter,tensorflow,opencv,arduino,raspberrypi,nodejs,latex,vscode,solidworks" alt="Tech Stack" />
 </p>
 
 **Other Tools**: Altium Designer | Proteus | Quartus | Microsoft Office Suite | Canva | Git | GitHub
