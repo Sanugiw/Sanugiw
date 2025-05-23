@@ -32,12 +32,13 @@ Driven by a commitment to advancing healthcare technology, I continuously seek o
 
 ---
 
-## GitHub Stats
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sanugiw&show_icons=true&theme=radical" alt="GitHub Stats" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanugiw&layout=compact&theme=radical" alt="Top Languages" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sanugiw&show_icons=true&theme=radical" alt="Sanugiw's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanugiw&layout=compact&theme=radical" alt="Top Languages" width="48%" />
 </p>
+
 
 ---
 
