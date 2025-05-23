@@ -2,7 +2,7 @@
 
 ## About Me
 
-I’m a highly motivated and disciplined second year **Biomedical Engineering undergraduate at the University of Moratuwa**, maintaining a CGPA of **3.9/4.0** with consistent placement on the **Dean’s List** for academic excellence. I am passionate about solving complex healthcare challenges through interdisciplinary approaches that combine **signal processing**, **physiological modeling**, **machine learning**, and **human-computer interaction**.
+I’m a highly motivated and disciplined second year **Biomedical Engineering undergraduate at the University of Moratuwa**, maintaining a CGPA of **3.9/4.0** with consistent placement on the **Dean’s List** for academic excellence. I am passionate about solving complex healthcare challenges through interdisciplinary approaches that combine **Mathematics**, **Physiological Modeling**, **Bio Signal Processing**, **Machine Learning**, and **Human-Computer Interaction**.
 
 My academic journey is enriched by hands-on experience in building **medical devices** and **intelligent software systems** that enhance diagnostic accuracy and clinical efficiency. I bring a strong blend of **hardware integration**, **algorithm development**, and **user-centered design**, aiming to create impactful, accessible solutions that improve patient care and promote global health equity.
 
