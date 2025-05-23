@@ -17,7 +17,7 @@ I am continuously seeking opportunities to engage in **research**, collaborate o
 ## Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,dart,matlab,flutter,tensorflow,numpy,opencv,arduino,raspberrypi,nodejs,latex,vscode,altium,solidworks,altiumstudio,proteus,quartus" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,dart,matlab,flutter,tensorflow,numpy,project jupyter,opencv,arduino,raspberrypi,nodejs,latex,vscode,altium,solidworks,altiumstudio,proteus,quartus" alt="Tech Stack" />
 </p>
 
 ---
