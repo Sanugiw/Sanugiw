@@ -35,8 +35,8 @@ I am continuously seeking opportunities to engage in **research**, collaborate o
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sanugiw&show_icons=true&theme=radical" width="48%" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanugiw&layout=compact&theme=radical" width="48%" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sanugiw&show_icons=true&theme=radical" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanugiw&layout=compact&theme=radical" height="180" />
 </p>
 
 <p align="center">
