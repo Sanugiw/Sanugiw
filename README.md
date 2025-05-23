@@ -8,7 +8,7 @@ I’m a highly motivated and disciplined second-year **Biomedical Engineering un
 
 My academic journey is enriched by hands-on experience in building **medical devices** and **intelligent software systems** that enhance diagnostic accuracy and clinical efficiency. I bring a strong blend of **hardware integration**, **algorithm development**, and **user-centered design**, aiming to create impactful, accessible solutions that improve patient care and promote global health equity.
 
-Beyond the classroom, I’m actively involved in leadership and technical roles within several organizations including the **Electronic Club**, **IEEE EMBS Student Branch Chapter**, **IEEE Student Branch**, and **AIESEC in University of Moratuwa**. These experiences have helped sharpen my communication, project management, and team collaboration skills — vital tools for a future biomedical innovator.
+Beyond the classroom, I’m actively involved in leadership and technical roles within several organizations including the **Electronic Club**, **IEEE EMBS Student Branch Chapter of University of Moratuwa**, **IEEE Student Branch of University of Moratuwa**, and **AIESEC in University of Moratuwa**. These experiences have helped sharpen my communication, project management, and team collaboration skills — vital tools for a future biomedical innovator.
 
 I am continuously seeking opportunities to engage in **research**, collaborate on **multidisciplinary projects**, and explore how emerging technologies can be translated into **real-world biomedical solutions**.
 
@@ -17,7 +17,7 @@ I am continuously seeking opportunities to engage in **research**, collaborate o
 ## Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,dart,matlab,flutter,tensorflow,numpy,opencv,arduino,raspberrypi,nodejs,latex,vscode,altium,solidworks,altiumstudio" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,dart,matlab,flutter,tensorflow,numpy,opencv,arduino,raspberrypi,nodejs,latex,vscode,altium,solidworks,altiumstudio,proteus,quartus" alt="Tech Stack" />
 </p>
 
 ---
