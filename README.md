@@ -2,49 +2,56 @@
 
 ---
 
-## About Me
+## 🧬 About Me
 
-I am a highly motivated and disciplined second year Biomedical Engineering undergraduate at the University of Moratuwa, maintaining a strong academic record with a CGPA of 3.9/4.0 and consistent placement on the Dean’s List for academic excellence. I am deeply passionate about leveraging engineering principles to address complex healthcare challenges, particularly in the interdisciplinary domains of signal processing, physiological modeling, machine learning, and human-computer interaction. My academic journey is enriched by practical, project-based experience where I have designed and developed innovative medical devices and intelligent healthcare systems that aim to enhance diagnostic accuracy, clinical efficiency, and patient outcomes.
+I’m a highly motivated and disciplined second-year **Biomedical Engineering undergraduate at the University of Moratuwa**, maintaining a CGPA of **3.9/4.0** with consistent placement on the **Dean’s List** for academic excellence. I have a strong passion for solving complex healthcare challenges through interdisciplinary approaches that combine **signal processing**, **physiological modeling**, **machine learning**, and **human-computer interaction**.
 
-Beyond academics, I actively contribute to and lead within several technical and professional organizations, including the Electronic Club, IEEE Engineering in Medicine and Biology Society (EMBS) Student Branch Chapter, IEEE Student Branch, and AIESEC at the University of Moratuwa. These roles have honed my leadership, communication, and project management skills, enabling me to coordinate diverse teams, organize impactful events, and foster professional networks. I am also skilled in a variety of programming languages and software tools, allowing me to integrate hardware and software solutions seamlessly in biomedical applications.
+My academic journey is enriched by hands-on experience in building **medical devices** and **intelligent software systems** that enhance diagnostic accuracy and clinical efficiency. I bring a strong blend of **hardware integration**, **algorithm development**, and **user-centered design**, aiming to create impactful, accessible solutions that improve patient care and promote global health equity.
 
-Driven by a commitment to advancing healthcare technology, I continuously seek opportunities to engage in research, collaborate on multidisciplinary projects, and apply emerging technologies to create accessible, user-friendly medical solutions. My goal is to leverage my technical expertise and leadership experience to contribute meaningfully to the development of innovative biomedical engineering solutions that enhance patient care and promote healthier communities globally.
+Beyond the classroom, I’m actively involved in leadership and technical roles within several organizations including the **Electronic Club**, **IEEE EMBS Student Branch Chapter**, **IEEE Student Branch**, and **AIESEC in University of Moratuwa**. These experiences have helped sharpen my communication, project management, and team collaboration skills — vital tools for a future biomedical innovator.
 
----
-
-## Tech Stack & Tools
-
-`Python` | `C++` | `Dart` | `MATLAB` | `Jupyter Notebook` | `Arduino` | `Microchip Studio`| `Node.js` | `Raspberry Pi` | `SolidWorks` | `Altium` | `Proteus` | `LT Spice` | `OpenCV` | `Visual Studio Code`| `Flutter` } `TensorFlow` | `NumPy` | `LaTeX` | `Canva` | `Microsoft Office Suite` 
+I am continuously seeking opportunities to engage in **research**, collaborate on **multidisciplinary projects**, and explore how emerging technologies can be translated into **real-world biomedical solutions**.
 
 ---
 
-## Notable Projects
+## 🛠 Tech Stack & Tools
 
-- **X-Hale** – Developed a smart, portable spirometer measuring exhaled air velocity, displaying FVC and FEV1 with lung function analysis on screen.    
-
-- **ML-Integrated Table-Mounted Fundoscope** – Designed a table-mounted device capturing retinal videos, analyzed via machine learning models integrated with a web app.   
-
-- **Dual Mode Analog Thermometer** – Created a dual thermometer measuring body and liquid temperatures, with digital display.   
-
-- **Smart Medibox** – Built an Arduino-based medicine reminder system with environmental monitoring for timely, safe medication.  
-
-- **Smart Trash Classifier** – Developed an edge AI system on Raspberry Pi using TensorFlow Lite and OpenCV to classify waste categories via a real-time Flask web interface.  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,dart,matlab,flutter,tensorflow,numpy,opencv,arduino,raspberrypi,nodejs,latex,figma,canva,vscode,solidworks,altiumstudio" alt="Tech Stack" />
+</p>
 
 ---
 
-## 📈 GitHub Stats
+## 🚀 Notable Projects
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Sanugiw&show_icons=true&theme=radical" alt="GitHub Stats" height="160" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanugiw&layout=compact&theme=radical" alt="Top Languages" height="160" /> </p>
-
+- **X-Hale** – A portable, smart spirometer capable of measuring exhaled air velocity with on-device FVC/FEV1 analysis and interpretation.
+- **ML-Integrated Fundoscope** – A table-mounted retinal video capture system, integrated with ML models and a web interface for analysis and visualization.
+- **Dual Mode Analog Thermometer** – Designed to measure both body and liquid temperatures with analog sensors and digital readout.
+- **Smart Medibox** – An Arduino-based medicine reminder with environmental sensing and alert system for medication safety.
+- **Smart Trash Classifier** – An edge-AI waste sorting system using Raspberry Pi, TensorFlow Lite, and OpenCV with real-time Flask web display.
 
 ---
 
-## Let's Connect
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sanugiw&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanugiw&layout=compact&theme=radical" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Sanugiw&theme=radical&hide_border=false" width="60%" />
+</p>
+
+---
+
+## 📬 Let's Connect
 
 - 📧 Email: [sanugidwickramasinghe@gmail.com](mailto:sanugidwickramasinghe@gmail.com)  
 - 🔗 LinkedIn: [linkedin.com/in/sanugiwickramasinghe](https://linkedin.com/in/sanugiwickramasinghe)  
+- 💻 GitHub: [github.com/Sanugiw](https://github.com/Sanugiw)
 
 ---
 
-> "The benefits of biomedical progress are obvious, clear, and powerful. The hazards are much less well appreciated."  
-> — *Leon Kass*
+> _“The benefits of biomedical progress are obvious, clear, and powerful. The hazards are much less well appreciated.”_  
+> — **Leon Kass**
