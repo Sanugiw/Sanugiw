@@ -40,7 +40,7 @@ I am continuously seeking opportunities to engage in **research**, collaborate o
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Sanugiw&theme=radical&hide_border=false" width="60%" />
+  <img src="https://streak-stats.demolab.com?user=Sanugiw&theme=radical&hide_border=false" height="180" />
 </p>
 
 ---
