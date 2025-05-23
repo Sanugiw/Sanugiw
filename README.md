@@ -18,7 +18,7 @@ I am continuously seeking opportunities to engage in **research**, collaborate o
   <img src="https://skillicons.dev/icons?i=python,cpp,dart,matlab,flutter,tensorflow,opencv,arduino,raspberrypi,nodejs,latex,vscode" alt="Tech Stack" />
 </p>
 
-**Other Tools**: `Altium Designer` | `SolidWorks` | `Proteus` | `Quartus` | `Jupyter Notebook` | `Microsoft Office Suite` | `Canva` | `Git` | `GitHub`
+**Other Tools**: `Altium Designer` | `SolidWorks` | `Proteus` | `Quartus` | `Jupyter Notebook` | `Git` 
 
 ---
 
@@ -32,13 +32,6 @@ I am continuously seeking opportunities to engage in **research**, collaborate o
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Sanugiw&theme=radical&hide_border=false" height="180" />
 </p>
-
----
-
-## Let's Connect
-
-- 📧 Email: [sanugidwickramasinghe@gmail.com](mailto:sanugidwickramasinghe@gmail.com)  
-- 🔗 LinkedIn: [linkedin.com/in/sanugiwickramasinghe](https://linkedin.com/in/sanugiwickramasinghe)  
 
 ---
 
