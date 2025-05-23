@@ -2,7 +2,7 @@
 
 ---
 
-## 🧬 About Me
+## About Me
 
 I’m a highly motivated and disciplined second-year **Biomedical Engineering undergraduate at the University of Moratuwa**, maintaining a CGPA of **3.9/4.0** with consistent placement on the **Dean’s List** for academic excellence. I have a strong passion for solving complex healthcare challenges through interdisciplinary approaches that combine **signal processing**, **physiological modeling**, **machine learning**, and **human-computer interaction**.
 
@@ -14,7 +14,7 @@ I am continuously seeking opportunities to engage in **research**, collaborate o
 
 ---
 
-## 🛠 Tech Stack & Tools
+## Tech Stack & Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,dart,matlab,flutter,tensorflow,numpy,opencv,arduino,raspberrypi,nodejs,latex,figma,canva,vscode,solidworks,altiumstudio" alt="Tech Stack" />
@@ -22,7 +22,7 @@ I am continuously seeking opportunities to engage in **research**, collaborate o
 
 ---
 
-## 🚀 Notable Projects
+## Notable Projects
 
 - **X-Hale** – A portable, smart spirometer capable of measuring exhaled air velocity with on-device FVC/FEV1 analysis and interpretation.
 - **ML-Integrated Fundoscope** – A table-mounted retinal video capture system, integrated with ML models and a web interface for analysis and visualization.
@@ -32,7 +32,7 @@ I am continuously seeking opportunities to engage in **research**, collaborate o
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sanugiw&show_icons=true&theme=radical" height="180" />
