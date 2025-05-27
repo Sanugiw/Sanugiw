@@ -14,6 +14,15 @@ I am continuously seeking opportunities to engage in **research**, collaborate o
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,dart,matlab,flutter,tensorflow,opencv,arduino,raspberrypi,nodejs,latex,vscode" alt="Tech Stack" />
+  <img src="https://drive.google.com/uc?export=view&id=1h2f5l6dy2Afy4Ss6IyGLMbM1FGF7OXP-" width="1" alt="spacer" />
+  <img src="https://drive.google.com/uc?export=view&id=1IHV-03e9Kpcxy7mrv1J9KlzkX9gCxzFD"
+     height="48"
+     alt="SolidWorks" />
+  <img src="https://drive.google.com/uc?export=view&id=1h2f5l6dy2Afy4Ss6IyGLMbM1FGF7OXP-" width="1" alt="spacer" />
+  <img src="https://drive.google.com/uc?export=view&id=19GvI3RjVH8Na2DmMGR0rlvK4LLp_JRv1" 
+     width="48" 
+     style="margin: 4px; border-radius: 12px; background-color: #1e1e2f; padding: 6px;" 
+     alt="Altium" />
 </p>
 
 ---
