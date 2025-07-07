@@ -1,6 +1,6 @@
 ## Sanugi Dilara Wickramasinghe
 
-I am a highly motivated and disciplined second year **Biomedical Engineering undergraduate at the University of Moratuwa**, maintaining a CGPA of **3.9/4.0** with consistent placement on the **Dean’s List** for academic excellence. I am passionate about solving complex healthcare challenges through interdisciplinary approaches that combine **Mathematics**, **Physiological Modeling**, **Signal Processing**, and **Machine Learning**.
+I am a highly motivated and disciplined second year **Biomedical Engineering undergraduate at the University of Moratuwa**, maintaining a CGPA of **3.9/4.0** with consistent placement on the **Dean’s List** for academic excellence. I am passionate about solving complex healthcare challenges through interdisciplinary approaches that combine **Mathematics**, **Physiological Modeling**, **Bio Signal Processing**, and **Machine Learning**.
 
 My academic journey is defined by hands-on experience in developing **medical devices** and **intelligent software systems** that enhance diagnostic precision and clinical efficiency. With a strong foundation in **hardware integration**, **algorithm development**, and **user-centered design**, I strive to create accessible, impactful solutions that advance patient care and global health. My key projects include **X-Hale** (a portable spirometer with mobile app integration), **ML Integrated Table Mounted Fundoscope**, **Dual Mode Analog Thermometer**, and **MediBox** (an IoT-based medicine reminder).
 
