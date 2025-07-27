@@ -4,7 +4,7 @@ I am a **Third-year Biomedical Engineering undergraduate at the Department of El
 
 My academic journey is defined by hands-on experience in developing **medical devices** and **intelligent software systems** that enhance diagnostic precision and clinical efficiency. With a strong foundation in **hardware integration**, **algorithm development**, and **user-centered design**, I strive to create accessible, impactful solutions that advance patient care and global health. My key projects include **X-Hale** (a portable spirometer with mobile app integration), **ML Integrated Table Mounted Fundoscope**, **Dual Mode Analog Thermometer**, and **MediBox** (an IoT-based medicine reminder).
 
-Beyond the classroom, I am actively involved in leadership and technical roles within several organizations including the **Electronic Club**, **IEEE EMBS Student Branch Chapter of University of Moratuwa**, **IEEE Student Branch of University of Moratuwa**, and **AIESEC in University of Moratuwa**. These experiences have helped sharpen my communication, project management, and team collaboration skills; vital tools for a future biomedical innovator.
+Beyond the classroom, I am actively involved in leadership and technical roles within several organizations including the **Electronic Club**, **IEEE EMBS Student Branch Chapter of University of Moratuwa**, **IEEE Student Branch of University of Moratuwa**, and **AIESEC in University of Moratuwa**. These experiences have helped sharpen my communication, project management, and team collaboration skills.
 
 I am continuously seeking opportunities to engage in **research**, collaborate on **multidisciplinary projects**, and explore how emerging technologies can be translated into **real-world biomedical solutions**.
 
