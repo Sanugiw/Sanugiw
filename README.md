@@ -12,7 +12,7 @@ Throughout my academic journey, I’ve developed a range of projects; from **X-H
 
 Beyond the lab, I actively contribute to organizations such as the **IEEE EMBS, IEEE Student Branch, and AIESEC at the University of Moratuwa**, taking on leadership and organizational roles that have refined my teamwork, communication, and project management skills. I am also passionate about writing and knowledge sharing, using it as a platform to communicate ideas, inspire peers, and contribute to the broader scientific and technical community.
 
-I’m continuously exploring opportunities to collaborate on research and innovation-driven projects that bridge technology and medicine — with a vision to advance biomedical engineering through creativity, data, and human-centered design.
+I’m continuously exploring opportunities to collaborate on research and innovation-driven projects that bridge technology and medicine; with a vision to advance biomedical engineering through creativity, data, and human-centered design.
 
 ---
 
