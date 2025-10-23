@@ -1,12 +1,18 @@
 ## Sanugi Dilara Wickramasinghe
 
-I am a **Third-year Biomedical Engineering undergraduate at the Department of Electronic and Telecommunication Engineering, University of Moratuwa**, maintaining a **CGPA** of **3.87/4.0** with consistent placement on the **Dean’s List** for academic excellence. I am passionate about solving complex healthcare challenges through interdisciplinary approaches that combine **Mathematics**, **Medical Instrumentation**, **Bio Signal Processing**, and **Machine Learning**.
+---
 
-My academic journey is defined by hands-on experience in developing **medical devices** and **intelligent software systems** that enhance diagnostic precision and clinical efficiency. With a strong foundation in **hardware integration**, **algorithm development**, and **user-centered design**, I strive to create accessible, impactful solutions that advance patient care and global health. My key projects include **X-Hale** (a portable spirometer with mobile app integration), **ML Integrated Table Mounted Fundoscope**, **Dual Mode Analog Thermometer**, and **MediBox** (an IoT-based medicine reminder).
+### About
 
-Beyond the classroom, I am actively involved in leadership and technical roles within several organizations including the **Electronic Club**, **IEEE EMBS Student Branch Chapter of University of Moratuwa**, **IEEE Student Branch of University of Moratuwa**, and **AIESEC in University of Moratuwa**. These experiences have helped sharpen my communication, project management, and team collaboration skills.
+I’m a **third-year Biomedical Engineering undergraduate** at the *8Department of Electronic and Telecommunication Engineering, University of Moratuwa**, maintaining a **CGPA of 3.87/4.0** with consistent placement on the **Dean’s List** for academic excellence.
 
-I am continuously seeking opportunities to engage in **research**, collaborate on **multidisciplinary projects**, and explore how emerging technologies can be translated into **real-world biomedical solutions**.
+My passion lies in solving real-world healthcare challenges through the intersection of **medical instrumentation**, **biosignal processing**, **machine learning**, and **machine vision**. I’m driven by the goal of designing intelligent, human-centered systems that make healthcare more accessible, efficient, and data-driven.
+
+Throughout my academic journey, I’ve developed a range of projects — from **X-Hale**, a portable spirometer with mobile app integration, and **ML-Integrated Table-Mounted Fundoscope**, to the **Dual Mode Analog Thermometer** and **MediBox**, an IoT-based medicine reminder. These experiences have strengthened my skills in **circuit design**, **sensor interfacing**, **signal conditioning**, **feature extraction**, **machine learning model development**, and **embedded systems integration**.
+
+Beyond the lab, I actively contribute to organizations such as the IEEE EMBS, IEEE Student Branch, and AIESEC at the University of Moratuwa, taking on leadership and organizational roles that have refined my teamwork, communication, and project management skills.
+
+I’m continuously exploring opportunities to collaborate on **research** and **innovation-driven projects** that bridge technology and medicine — with a vision to advance biomedical engineering through creativity, data, and human-centered design.
 
 ---
 
