@@ -4,7 +4,7 @@
 
 ### About
 
-I’m a **third-year Biomedical Engineering undergraduate** at the *8Department of Electronic and Telecommunication Engineering, University of Moratuwa**, maintaining a **CGPA of 3.87/4.0** with consistent placement on the **Dean’s List** for academic excellence.
+I’m a **third-year Biomedical Engineering undergraduate** at the **Department of Electronic and Telecommunication Engineering, University of Moratuwa**, maintaining a **CGPA of 3.87/4.0** with consistent placement on the **Dean’s List** for academic excellence.
 
 My passion lies in solving real-world healthcare challenges through the intersection of **medical instrumentation**, **biosignal processing**, **machine learning**, and **machine vision**. I’m driven by the goal of designing intelligent, human-centered systems that make healthcare more accessible, efficient, and data-driven.
 
