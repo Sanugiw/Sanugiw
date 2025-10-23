@@ -8,11 +8,11 @@ I’m a **third-year Biomedical Engineering undergraduate** at the *8Department 
 
 My passion lies in solving real-world healthcare challenges through the intersection of **medical instrumentation**, **biosignal processing**, **machine learning**, and **machine vision**. I’m driven by the goal of designing intelligent, human-centered systems that make healthcare more accessible, efficient, and data-driven.
 
-Throughout my academic journey, I’ve developed a range of projects — from **X-Hale**, a portable spirometer with mobile app integration, and **ML-Integrated Table-Mounted Fundoscope**, to the **Dual Mode Analog Thermometer** and **MediBox**, an IoT-based medicine reminder. These experiences have strengthened my skills in **circuit design**, **sensor interfacing**, **signal conditioning**, **feature extraction**, **machine learning model development**, and **embedded systems integration**.
+Throughout my academic journey, I’ve developed a range of projects; from **X-Hale**, a portable spirometer with mobile app integration, and **ML-Integrated Table-Mounted Fundoscope**, to the **Dual Mode Analog Thermometer** and **MediBox**, an IoT-based medicine reminder. These experiences have strengthened my skills in **circuit design**, **sensor interfacing**, **signal conditioning**, **feature extraction**, **machine learning model development**, and **embedded systems integration**.
 
-Beyond the lab, I actively contribute to organizations such as the IEEE EMBS, IEEE Student Branch, and AIESEC at the University of Moratuwa, taking on leadership and organizational roles that have refined my teamwork, communication, and project management skills.
+Beyond the lab, I actively contribute to organizations such as the **IEEE EMBS, IEEE Student Branch, and AIESEC at the University of Moratuwa**, taking on leadership and organizational roles that have refined my teamwork, communication, and project management skills. I am also passionate about writing and knowledge sharing, using it as a platform to communicate ideas, inspire peers, and contribute to the broader scientific and technical community.
 
-I’m continuously exploring opportunities to collaborate on **research** and **innovation-driven projects** that bridge technology and medicine — with a vision to advance biomedical engineering through creativity, data, and human-centered design.
+I’m continuously exploring opportunities to collaborate on research and innovation-driven projects that bridge technology and medicine — with a vision to advance biomedical engineering through creativity, data, and human-centered design.
 
 ---
 
