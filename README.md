@@ -4,9 +4,9 @@
 
 ### About
 
-I’m a **third-year Biomedical Engineering undergraduate** at the **Department of Electronic and Telecommunication Engineering, University of Moratuwa**, maintaining a **CGPA of 3.87/4.0** with consistent placement on the **Dean’s List**.
+I’m a third-year Biomedical Engineering undergraduate at the Department of Electronic and Telecommunication Engineering, University of Moratuwa**, maintaining a CGPA of 3.87/4.0 with consistent placement on the Dean’s List.
 
-I’m passionate about applying engineering and data-driven approaches to address healthcare challenges, particularly in **medical instrumentation**, **biosignal processing**, and **machine learning and machine vision for healthcare applications**. My experience spans developing biomedical devices, sensor-based systems, and intelligent healthcare tools that integrate hardware, software, and machine learning models to improve diagnostic precision and accessibility.
+I’m passionate about applying engineering and data-driven approaches to address healthcare challenges, particularly in medical instrumentation, biosignal processing, and machine learning and machine vision for healthcare applications. My experience spans developing biomedical devices, sensor-based systems, and intelligent healthcare tools that integrate hardware, software, and machine learning models to improve diagnostic precision and accessibility.
 
 Beyond academics, I value clear communication, leadership, and teamwork, which I’ve strengthened through active engagement in technical and professional initiatives. I have a strong appreciation for reading, as well as technical and creative writing. These interests fuel my curiosity and enhance my ability to communicate ideas thoughtfully and effectively.
 
