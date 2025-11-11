@@ -4,15 +4,13 @@
 
 ### About
 
-I’m a **third-year Biomedical Engineering undergraduate** at the **Department of Electronic and Telecommunication Engineering, University of Moratuwa**, maintaining a **CGPA of 3.87/4.0** with consistent placement on the **Dean’s List** for academic excellence.
+I’m a **third-year Biomedical Engineering undergraduate** at the **Department of Electronic and Telecommunication Engineering, University of Moratuwa**, maintaining a **CGPA of 3.87/4.0** with consistent placement on the **Dean’s List**.
 
-My passion lies in solving real-world healthcare challenges through the intersection of **medical instrumentation**, **biosignal processing**, **machine learning**, and **machine vision**. I’m driven by the goal of designing intelligent, human-centered systems that make healthcare more accessible, efficient, and data-driven.
+I’m passionate about applying **engineering and data-driven approaches** to address healthcare challenges, particularly in **medical instrumentation**, **biosignal processing**, **physiological modeling**, and **machine learning for health applications**. My experience spans developing **biomedical devices**, **sensor-based systems**, and **intelligent healthcare tools** that integrate hardware and software for improved diagnostic precision and accessibility.
 
-Throughout my academic journey, I’ve developed a range of projects; from **X-Hale**, a portable spirometer with mobile app integration, and **ML-Integrated Table-Mounted Fundoscope**, to the **Dual Mode Analog Thermometer** and **MediBox**, an IoT-based medicine reminder. These experiences have strengthened my skills in **circuit design**, **sensor interfacing**, **signal conditioning**, **feature extraction**, **machine learning model development**, and **embedded systems integration**.
+Beyond academics, I value **clear communication, leadership, and teamwork**, which I’ve strengthened through active engagement in technical and professional initiatives. I also have a deep appreciation for **reading and scientific writing**, which fuel my curiosity and help me communicate ideas thoughtfully and effectively.
 
-Beyond the lab, I actively contribute to the **IEEE EMBS Student Branch Chapter, IEEE Student Branch, and AIESEC at the University of Moratuwa**, taking on leadership and organizational roles that have refined my leadership, teamwork, and communication skills. I’m also passionate about writing and scientific communication, using it as a medium to share knowledge, inspire peers, and contribute to the biomedical engineering community and the society.
-
-I’m continuously exploring opportunities to collaborate on research and innovation-driven projects that bridge technology and medicine; with a vision to advance biomedical engineering through creativity, data, and human-centered design.
+Driven by curiosity and compassion, I aim to contribute to **innovative, human-centered healthcare solutions** through research and multidisciplinary collaboration.
 
 ---
 
