@@ -1,8 +1,8 @@
-## Sanugi Dilara Wickramasinghe
+# Sanugi Dilara Wickramasinghe
 
 ---
 
-### About
+## About
 
 I’m a third-year Biomedical Engineering undergraduate at the Department of Electronic and Telecommunication Engineering, University of Moratuwa, with consistent placement on the Dean’s List.
 
@@ -14,7 +14,7 @@ Driven by curiosity and compassion, I aim to contribute to innovative, human-cen
 
 ---
 
-### Tech Stack & Tools
+## Tech Stack & Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,dart,matlab,flutter,tensorflow,opencv,arduino,raspberrypi,nodejs,latex,vscode" alt="Tech Stack" />
@@ -31,7 +31,7 @@ Driven by curiosity and compassion, I aim to contribute to innovative, human-cen
 
 ---
 
-### GitHub Analytics
+## GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sanugiw&show_icons=true&theme=radical" height="180" />
