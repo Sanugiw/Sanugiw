@@ -25,10 +25,10 @@ I’m passionate about building **intelligent, human-centered biomedical systems
 ## GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sanugiw&show_icons=true&theme=radical" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanugiw&layout=compact&theme=radical" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sanugiw&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=1800" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanugiw&layout=compact&theme=radical&hide_border=false&cache_seconds=1800" height="180" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Sanugiw&theme=radical" height="180" />
+  <img src="https://streak-stats.demolab.com/?user=Sanugiw&theme=radical&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" height="180" />
 </p>
