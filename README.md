@@ -22,7 +22,7 @@ I’m passionate about building **intelligent, human-centered biomedical systems
 
 ---
 
-## GitHub Activity
+## GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sanugiw&show_icons=true&theme=radical" height="180" />
