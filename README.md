@@ -10,15 +10,7 @@ I’m passionate about building **intelligent, human-centered biomedical systems
 
 ---
 
-## Tech Stack & Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,matlab,tensorflow,opencv,arduino,raspberrypi,nodejs,flutter,latex,vscode" />
-</p>
-
----
-
-## Core Technical Focus
+## Core Skills
 
 **Biosignal Processing**  
 ECG · PPG · Physiological data analysis  
@@ -34,6 +26,12 @@ Data visualization · Simple web & mobile interfaces
 
 ---
 
-## Hardware & Design Tools
+## Tech Stack & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,matlab,tensorflow,opencv,arduino,raspberrypi,nodejs,flutter,latex,vscode" />
+</p>
+
+### Hardware & Design Tools
 
 > SolidWorks · Altium Designer · LTspice · Proteus
