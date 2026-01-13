@@ -32,6 +32,6 @@ Data visualization · Simple web & mobile interfaces
   <img src="https://skillicons.dev/icons?i=python,cpp,matlab,tensorflow,opencv,arduino,raspberrypi,nodejs,flutter,latex,vscode" />
 </p>
 
-### Hardware & Design Tools
+### Design Tools
 
 > SolidWorks · Altium Designer · LTspice · Proteus
