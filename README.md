@@ -26,12 +26,14 @@ Data visualization · Simple web & mobile interfaces
 
 ---
 
-## Tech Stack & Tools
+## Tech Stack 
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,matlab,tensorflow,opencv,arduino,raspberrypi,nodejs,flutter,latex,vscode" />
 </p>
 
-### Design Tools
+---
+
+## Design Tools
 
 > SolidWorks · Altium Designer · LTspice · Proteus
