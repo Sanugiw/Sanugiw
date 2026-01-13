@@ -4,10 +4,10 @@
 
 ## About Me
 
-Third-year Biomedical Engineering undergraduate at the University of Moratuwa, focused on **biosignal processing**, **medical instrumentation**, and **machine learning for healthcare**.
+Third-year **Biomedical Engineering undergraduate** at the **University of Moratuwa**, with a focus on  
+**biosignal processing**, **medical instrumentation**, and **machine learning for healthcare**.
 
-I’m passionate about building **intelligent, human-centered biomedical systems** by integrating hardware, software, and data-driven methods. A strong communicator and collaborative team member, with a genuine interest in **reading and writing**, I aim to contribute to impactful healthcare innovation through research and multidisciplinary work.
-
+I’m passionate about building **intelligent, human-centered biomedical systems** by integrating hardware, software, and data-driven methods. I value **clear communication**, **collaboration**, and thoughtful problem-solving, and I have a genuine interest in **reading and writing**, which helps me articulate technical ideas clearly and effectively.
 
 ---
 
@@ -17,16 +17,24 @@ I’m passionate about building **intelligent, human-centered biomedical systems
   <img src="https://skillicons.dev/icons?i=python,cpp,matlab,tensorflow,opencv,arduino,raspberrypi,nodejs,flutter,latex,vscode" />
 </p>
 
-**Core Skills**
+---
 
-* **Biosignal Processing:** ECG, PPG, physiological data analysis
-* **Machine Learning & Vision:** CNNs, classification, medical image analysis
-* **Medical Instrumentation:** Sensor-based systems, device prototyping
-* **Software & UI:** Data visualization, simple web interfaces
+## Core Technical Focus
 
-**Hardware & Design Tools**
+**Biosignal Processing**  
+ECG · PPG · Physiological data analysis  
 
-* SolidWorks · Altium Designer · LTspice · Proteus
+**Machine Learning & Vision**  
+CNNs · Classification · Medical image analysis  
+
+**Medical Instrumentation**  
+Sensor-based systems · Device prototyping  
+
+**Software & Interfaces**  
+Data visualization · Simple web & mobile interfaces  
 
 ---
 
+## Hardware & Design Tools
+
+> SolidWorks · Altium Designer · LTspice · Proteus
