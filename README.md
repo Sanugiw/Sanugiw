@@ -2,7 +2,7 @@
 
 ---
 
-## About
+## About Me
 
 Third-year Biomedical Engineering undergraduate at the University of Moratuwa, focused on **biosignal processing**, **medical instrumentation**, and **machine learning for healthcare**.
 
@@ -17,18 +17,16 @@ I’m passionate about building **intelligent, human-centered biomedical systems
   <img src="https://skillicons.dev/icons?i=python,cpp,matlab,tensorflow,opencv,arduino,raspberrypi,nodejs,flutter,latex,vscode" />
 </p>
 
-**Hardware & Design Tools:** SolidWorks · Altium Designer
+**Core Skills**
 
+* **Biosignal Processing:** ECG, PPG, physiological data analysis
+* **Machine Learning & Vision:** CNNs, classification, medical image analysis
+* **Medical Instrumentation:** Sensor-based systems, device prototyping
+* **Software & UI:** Data visualization, simple web interfaces
+
+**Hardware & Design Tools**
+
+* SolidWorks · Altium Designer · LTspice · Proteus
 
 ---
 
-## GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sanugiw&show_icons=true&theme=radical&include_all_commits=true&count_private=true&cache_seconds=1800" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanugiw&layout=compact&theme=radical&cache_seconds=1800" height="180" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Sanugiw&theme=radical" height="180" />
-</p>
