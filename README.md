@@ -4,8 +4,7 @@
 
 ## About Me
 
-Third-year **Biomedical Engineering undergraduate** at the **University of Moratuwa**, with a focus on  
-**biosignal processing**, **medical instrumentation**, and **machine learning for healthcare**.
+Third-year **Biomedical Engineering undergraduate** at the **University of Moratuwa**, with a focus on **biosignal processing**, **medical instrumentation**, and **machine learning for healthcare**.
 
 I’m passionate about building **intelligent, human-centered biomedical systems** by integrating hardware, software, and data-driven methods. I value **clear communication**, **collaboration**, and thoughtful problem-solving, and I have a genuine interest in **reading and writing**, which helps me articulate technical ideas clearly and effectively.
 
