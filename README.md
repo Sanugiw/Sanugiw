@@ -30,5 +30,5 @@ I’m passionate about building **intelligent, human-centered biomedical systems
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Sanugiw&theme=radical&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" height="180" />
+  <img src="https://streak-stats.demolab.com/?user=Sanugiw&theme=radical&hide_border=false" height="180" />
 </p>
