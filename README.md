@@ -19,7 +19,7 @@ CNN · Vision transformers · Classification · Medical image analysis
 **Medical Instrumentation**  
 Sensor-based systems · Device prototyping  
 
-**Software & Interfaces**  
+**Software & Interface Development**  
 Data visualization · Simple web & mobile interfaces  
 
 ---
