@@ -11,10 +11,10 @@ Third-year Biomedical Engineering undergraduate at the University of Moratuwa, f
 ## Core Skills
 
 **Biosignal Processing**  
-PPG · PPG · Physiological data analysis  
+PPG · ECG · Physiological data analysis  
 
 **Machine Learning & Vision**  
-CNN · Vision transformers · Classification · Medical image analysis  
+CNN · Vision transformers · Classification 
 
 **Medical Instrumentation**  
 Sensor-based systems · Device prototyping  
